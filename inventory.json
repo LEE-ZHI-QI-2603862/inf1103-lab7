@@ -11,8 +11,24 @@
         "id": "P002",
         "name": "Software",
         "price": 99.9,
-        "stock": 50,
+        "stock": 45,
         "type": "digital",
         "download_size": 1500
+    },
+    {
+        "id": "P003",
+        "name": "Wireless Mouse",
+        "price": 35.9,
+        "stock": 40,
+        "type": "physical",
+        "weight": 0.2
+    },
+    {
+        "id": "P004",
+        "name": "Photo Editing Software",
+        "price": 79.9,
+        "stock": 100,
+        "type": "digital",
+        "download_size": 2200.0
     }
 ]
